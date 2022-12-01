@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="sequenceInTheNumberPi:jar">
+    <output-path>$PROJECT_DIR$</output-path>
+    <root id="archive" name="sequenceInTheNumberPi.jar">
+      <element id="module-output" name="sequenceInTheNumberPi" />
+    </root>
+  </artifact>
+</component>
